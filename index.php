@@ -1,4 +1,4 @@
 <?php
-//we are locating the home page 
+//we are locating The login page 
 header("Location: login.php");
 ?>
