@@ -46,5 +46,6 @@
 <?php
     }
 ?>
+<!-- welcome to our platform -->
 </body>
 </html>
